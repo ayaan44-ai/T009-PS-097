@@ -1,0 +1,7 @@
+unit_id,district,block,crop,crop_category,season,risk_level,indemnity_level_pct,sum_insured_per_ha,actuarial_rate_pct,normal_area_ha,station_id,normal_rain_jun_jul_mm,block_yield_kg_ha
+NU-01,Dharwad,Kalghatgi,Paddy,FOOD,KHARIF,LOW,90,52000.00,9.00,4200.00,ST-01,520.0,3650
+NU-02,Dharwad,Navalgund,Maize,FOOD,KHARIF,MEDIUM,80,38000.00,10.50,6100.00,ST-01,560.0,3900
+NU-03,Haveri,Ranebennur,Maize,FOOD,KHARIF,MEDIUM,80,38000.00,11.00,7300.00,ST-02,470.0,4050
+NU-04,Haveri,Hirekerur,Ragi,FOOD,KHARIF,HIGH,70,30000.00,14.00,2800.00,ST-02,520.0,1850
+NU-05,Gadag,Mundargi,Cotton,COMMERCIAL,KHARIF,MEDIUM,80,60000.00,12.00,5200.00,ST-03,380.0,1450
+NU-06,Gadag,Ron,Tur,FOOD,KHARIF,HIGH,70,34000.00,15.00,3900.00,ST-03,540.0,780
